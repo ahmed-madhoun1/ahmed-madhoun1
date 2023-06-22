@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-madhoun1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-madhoun1" /> </p>
 
+- 🧑‍💻 I am using **Kotlin** as primary language
 
-
-- 🌱 I’m currently learning **Kotlin Multiplatform**
-
-- 👨‍💻 All of my projects are available at [https://ahmedmadhoun.netlify.app/](https://ahmedmadhoun.netlify.app/)
+- 😎 I’m currently learning **Kotlin Multiplatform**
 
 - 📫 How to reach me **ahmed2madhoun2@gmail.com**
 
