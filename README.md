@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Madhoun</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Mobile Software Engineer - Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-madhoun1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-madhoun1" /> </p>
-
-- 🧑‍💻 I am using **Kotlin** as primary language
-
-- 😎 I’m currently learning **Kotlin Multiplatform**
-
-- 📫 How to reach me **ahmed2madhoun2@gmail.com**
+- 📫 How to reach me **ahmed_madhoun@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
